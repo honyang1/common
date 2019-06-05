@@ -1,0 +1,6 @@
+	血压	http://elderlyweixin.shfusion.com/Interface/Android/BloodPressure
+	血糖	http://elderlyweixin.shfusion.com/Interface/Android/BloodSugar
+	社区预约	http://elderlyweixin.shfusion.com/Interface/Android/CommunityBooking
+	今日步数	http://elderlyweixin.shfusion.com/Interface/Android/HealthData
+	心率	http://elderlyweixin.shfusion.com/Interface/Android/HeartRate
+	报告详情	http://elderlyweixin.shfusion.com/Interface/Android/ReportInfo
